@@ -65,6 +65,10 @@ You've successfully run and modified your React Native App. :partying_face:
 
 # Troubleshooting
 
+https://github.com/Livingstone17/whatsappUI/assets/32388423/41f86155-5e20-46e7-a586-2ec1b88f0853
+
+
+
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
 # Learn More
